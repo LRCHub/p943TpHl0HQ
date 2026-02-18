@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "学びの窓",
+  "base_artist": "Home Made Kazoku",
+  "createdAt": "2026-02-18T03:30:19.746091Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "学びの窓",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_学びの窓_HOME_MADE_家族.txt"
+    }
+  ]
+}
